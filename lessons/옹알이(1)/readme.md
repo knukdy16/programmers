@@ -3,7 +3,7 @@
     
 레벨 : 0    
 
-URL : https://school.programmers.co.kr/learn/courses/30/lessons/120956
+URL : https://school.programmers.co.kr/learn/courses/30/lessons/120956  
     
 풀이방식    
 
