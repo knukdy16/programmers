@@ -3,6 +3,8 @@
     
 레벨 : 0    
 
+URL : https://school.programmers.co.kr/learn/courses/30/lessons/120956
+    
 풀이방식    
 
     포함되어 있는 문자열을 확인해서 1로 치환하고, 1만 포함되어 있으면 정답인 문자열로 판단
